@@ -39,6 +39,7 @@ ball_img = pygame.transform.scale(ball_img, (BALL_WIDTH, BALL_HEIGHT))
 #
 # game loop
 #
+#
 
 print('mygame is running')
 running = True
